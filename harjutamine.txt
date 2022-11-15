@@ -1,3 +1,5 @@
 Githubi kasutavad arendajad, programmeerimisõpetajad, üliõpilased ja ettevõtted üle maailma, et luua miljoneid avatud lähtekoodiga projekte ja võimaldada organiseeritud koostööd ühel platvormil.
 
 Hetkeseisuga ma ei leia sellele kasutust, kuid tulevikus kindlasti.
+
+Github loodi 8. veebruar 2008, Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon poolt. 10. aprill 2008 a. oli võimalik Githubi kasutada.
