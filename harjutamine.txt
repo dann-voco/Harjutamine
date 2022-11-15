@@ -1,1 +1,3 @@
 Githubi kasutavad arendajad, programmeerimisõpetajad, üliõpilased ja ettevõtted üle maailma, et luua miljoneid avatud lähtekoodiga projekte ja võimaldada organiseeritud koostööd ühel platvormil.
+
+Hetkeseisuga ma ei leia sellele kasutust, kuid tulevikus kindlasti.
